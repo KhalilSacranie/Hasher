@@ -1,3 +1,17 @@
 {
-    
+  "name": "hashandmatch",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KhalilSacranie/Hasher.git"
+  },
+  "keywords": ["Hashing", "Crypto"],
+  "author": "Khalil Sacranie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KhalilSacranie/Hasher/issues"
+  },
+  "homepage": "https://github.com/KhalilSacranie/Hasher#readme"
 }
